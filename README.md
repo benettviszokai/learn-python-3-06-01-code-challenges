@@ -1,2 +1,2 @@
 # Code Challenges
-### Codecademy - Learn Python 3 - Code Challenges - Basic 
+### Codecademy - Learn Python 3 - Code Challenges
